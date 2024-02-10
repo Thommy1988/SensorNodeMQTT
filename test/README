@@ -9,3 +9,10 @@ in the development cycle.
 
 More information about PlatformIO Unit Testing:
 - https://docs.platformio.org/en/latest/advanced/unit-testing/index.html
+
+
+1,3 Zoll OLED I2C 128 x 64 Pixel Display kompatibel mit Arduino und Raspberry Pi
+
+- Die I2C Adresse vom Display ist 0x3C. 
+- https://www.az-delivery.de/products/1-3zoll-i2c-oled-display?variant=6571890704411&utm_source=google&utm_medium=cpc&utm_campaign=19229855661&utm_content=147170319769&utm_term=&gad_source=1&gclid=CjwKCAiA2pyuBhBKEiwApLaIOwT8lGlrN9X5M-qA-ic9rdd_MpzZHNbJs3QCqLbN9V7oSrebVL1T6hoCU2AQAvD_BwE
+
